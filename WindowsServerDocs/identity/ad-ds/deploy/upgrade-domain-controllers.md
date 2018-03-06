@@ -22,7 +22,7 @@ The recommended way to upgrade a domain is to promote domain controllers that ru
 
 1.  Verify the target server meets system requirements. 
 2.	Verify Application compatibility. 
-3.	Review Recommendations for moving to Windows Server 2016 
+3.	Review [Recommendations for moving to Windows Server 2016](../../../get-started/Recommendations-moving-to-Server2016.md).
 4.	Verify security settings. For more information, see [Deprecated features and behavior changes related  to AD DS in Windows Server 2016](../../../get-started\deprecated-features.md). 
 5.	Check connectivity to the target server from the computer where you plan to run the installation. 
 6.	Check for availability of necessary operation master roles: 
